@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-A RESTful backend application for managing quiz questions and answer choices, built as a final project for the **Celebal Technologies Summer Internship Program**. The API supports full CRUD operations on quiz questions and their associated answer choices, with proper input validation and relational database management.
+A RESTful backend application for managing quiz questions and answer choices, built as a final project for the **Celebal Excellence Internship (CEI) Program 2026!**. The API supports full CRUD operations on quiz questions and their associated answer choices, with proper input validation and relational database management.
 
 ## Problem Statement
 
