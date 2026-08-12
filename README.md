@@ -8,6 +8,9 @@ A RESTful backend application for managing quiz questions and answer choices, bu
 
 Develop a backend system that allows users to create, read, update, and delete quiz questions along with their associated answer choices. The system must maintain a proper relationship between questions and choices, validate all input data, and handle errors gracefully.
 
+“The Quiz Backend Management System is a RESTful API built using FastAPI to manage quiz questions and choices. It uses SQLAlchemy for database operations and Pydantic for validation. The system supports CRUD operations, maintains relationships between questions and answers, and enables efficient data storage and retrieval for quiz-based applications.”
+
+
 ## Objectives
 
 - Build a RESTful API using FastAPI for managing quiz data
